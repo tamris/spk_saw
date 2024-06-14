@@ -20,7 +20,7 @@
                 </div>
                 <nav class="flex space-x-4 items-center">
                     @auth
-                        {{-- <a href="{{ url('/home') }}" class="text-gray-600 hover:text-gray-900 transition duration-200">Home</a> --}}
+                    
                         <!-- Avatar Dropdown -->
                         <div class="relative dropdown">
                             <button tabindex="0" class="flex items-center focus:outline-none">
